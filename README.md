@@ -60,7 +60,7 @@ const ctokenArgs: CTokenDeployArg[] = [
 npx hardhat run npx hardhat run ./scripts/sample.ts
 ```
 
-Source: [./scriot/sample.ts](https://github.com/thenextblock/hardhat-compound-example/blob/main/scripts/sample.ts)
+Source: [./script/sample.ts](https://github.com/thenextblock/hardhat-compound-example/blob/main/scripts/sample.ts)
 
 ## Smartcontracts:
 
